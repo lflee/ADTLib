@@ -4,7 +4,7 @@ The automatic drum transcription (ADT) library contains open source ADT algorith
 
 ## License
 
-This library is published under the BSD license which allows redistribution and modification as long as the copyright and disclaimers are contained. The full license information can be found on the [license](https://github.com/CarlSouthall/AutoDrumTranscritpion/blob/master/LICENSE) page. 
+This library is published under the BSD license which allows redistribution and modification as long as the copyright and disclaimers are contained. The full license information can be found on the [license](https://github.com/CarlSouthall/ADTlib/blob/master/LICENSE.txt) page. 
 
 ## Installation
 
